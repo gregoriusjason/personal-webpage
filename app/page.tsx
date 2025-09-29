@@ -143,10 +143,10 @@ export default function Home(){
                     </a>
 
                     <div className="flex items-center gap-4">
-                      <a href="#" className="group p-2 rounded-full border border-black/10 hover:border-black/40 hover:bg-black/5 transition-all" aria-label="GitHub">
+                      <a href="https://github.com/gregoriusjason/" className="group p-2 rounded-full border border-black/10 hover:border-black/40 hover:bg-black/5 transition-all" aria-label="GitHub">
                         <svg className="h-5 w-5 text-black group-hover:opacity-80 transition-opacity" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.74c-2.78.6-3.37-1.17-3.37-1.17a2.65 2.65 0 0 0-1.1-1.46c-.9-.61.07-.6.07-.6a2.1 2.1 0 0 1 1.53 1.03 2.12 2.12 0 0 0 2.9.83 2.13 2.13 0 0 1 .63-1.32c-2.22-.26-4.56-1.11-4.56-4.93A3.86 3.86 0 0 1 6.86 7s.84-.27 2.75 1.02a9.4 9.4 0 0 1 5 0C16.52 6.73 17.36 7 17.36 7a3.86 3.86 0 0 1 .11 2.85c0 3.83-2.34 4.66-4.57 4.91a2.38 2.38 0 0 1 .68 1.84v2.72c0 .26.18.58.69.48A10 10 0 0 0 12 2Z"/></svg>
                       </a>
-                      <a href="#" className="group p-2 rounded-full border border-black/10 hover:border-[#0A66C2]/40 hover:bg-[#0A66C2]/5 transition-all" aria-label="LinkedIn">
+                      <a href="https://www.linkedin.com/in/gregorius-jason/" className="group p-2 rounded-full border border-black/10 hover:border-[#0A66C2]/40 hover:bg-[#0A66C2]/5 transition-all" aria-label="LinkedIn">
                         <svg className="h-5 w-5 text-black group-hover:text-[#0A66C2] transition-colors" viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5a2.5 2.5 0 1 0 0 5.001 2.5 2.5 0 0 0 0-5ZM3 9h4v12H3V9Zm7 0h3.8v1.65h.05a4.17 4.17 0 0 1 3.75-2.06C21.18 8.59 22 11.06 22 14.46V21H18v-5.6c0-1.34-.02-3.06-1.87-3.06-1.88 0-2.17 1.46-2.17 2.96V21H10V9Z"/></svg>
                       </a>
                     </div>
