@@ -191,7 +191,7 @@ export default function Home(){
             <p className="text-slate-700 mb-4">A few things I’ve built recently.</p>
             
             
-            <a href="https://github.com/jasongregorius/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full border border-[#2a6dfd] bg-[#2a6dfd]/10 px-4 py-2 text-sm font-semibold text-[#2a6dfd] hover:bg-[#2a6dfd]/20 hover:text-[#1f5ae0] transition-all">
+            <a href="https://github.com/gregoriusjason/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full border border-[#2a6dfd] bg-[#2a6dfd]/10 px-4 py-2 text-sm font-semibold text-[#2a6dfd] hover:bg-[#2a6dfd]/20 hover:text-[#1f5ae0] transition-all">
               <svg className="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.74c-2.78.6-3.37-1.17-3.37-1.17a2.65 2.65 0 0 0-1.1-1.46c-.9-.61.07-.6.07-.6a2.1 2.1 0 0 1 1.53 1.03 2.12 2.12 0 0 0 2.9.83 2.13 2.13 0 0 1 .63-1.32c-2.22-.26-4.56-1.11-4.56-4.93A3.86 3.86 0 0 1 6.86 7s.84-.27 2.75 1.02a9.4 9.4 0 0 1 5 0C16.52 6.73 17.36 7 17.36 7a3.86 3.86 0 0 1 .11 2.85c0 3.83-2.34 4.66-4.57 4.91a2.38 2.38 0 0 1 .68 1.84v2.72c0 .26.18.58.69.48A10 10 0 0 0 12 2Z"/></svg>
               Visit my Github for more
             </a>
@@ -285,7 +285,7 @@ export default function Home(){
                 </figure>
                 <p className="mt-4 text-slate-700"></p>
                 <div className="mt-5 flex flex-wrap items-center gap-3">
-                  <a href="https://github.com/jasongregorius/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full border border-black/10 bg-black/5 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-black/10 transition">
+                  <a href="https://github.com/gregoriusjason/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full border border-black/10 bg-black/5 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-black/10 transition">
                     <svg className="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.74c-2.78.6-3.37-1.17-3.37-1.17a2.65 2.65 0 0 0-1.1-1.46c-.9-.61.07-.6.07-.6a2.1 2.1 0 0 1 1.53 1.03 2.12 2.12 0 0 0 2.9.83 2.13 2.13 0 0 1 .63-1.32c-2.22-.26-4.56-1.11-4.56-4.93A3.86 3.86 0 0 1 6.86 7s.84-.27 2.75 1.02a9.4 9.4 0 0 1 5 0C16.52 6.73 17.36 7 17.36 7a3.86 3.86 0 0 1 .11 2.85c0 3.83-2.34 4.66-4.57 4.91a2.38 2.38 0 0 1 .68 1.84v2.72c0 .26.18.58.69.48A10 10 0 0 0 12 2Z"/></svg>
                     GitHub
                   </a>
